@@ -23,5 +23,3 @@ It uses **OpenCV** for face detection, **K-Nearest Neighbors (KNN)** for recogni
 - **scikit-learn**
 - **NumPy, Pandas**
 - **Joblib** (for saving ML model)
-
-## 📂 Project Structure
